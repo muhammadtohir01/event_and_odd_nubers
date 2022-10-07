@@ -2,7 +2,7 @@
 #Print 1 if the number is even, otherwise print 0.
 
 
-number=5673
+number=5678
 a=number%2
 d=1-a
 print(d)
