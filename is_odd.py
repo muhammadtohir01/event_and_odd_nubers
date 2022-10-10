@@ -5,6 +5,6 @@
 
 num=129
 a=num%2
-d=1+a
 
-print(d-1)
+
+print(a)
