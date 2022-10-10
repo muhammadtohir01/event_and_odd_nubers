@@ -3,8 +3,8 @@
 
 
 
-num=128
-a=num%2
+number=128
+a=number%2
 
 
 print(a)
